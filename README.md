@@ -1,16 +1,32 @@
-Proyecto Bindus3 - Desarrollo de Página Web y Frontend para Bifactura
+BINDUS3 - Página Web Informativa y Front End para sistema BI3Factura
 
-Este proyecto fue llevado a cabo para Bindus3, un grupo de desarrolladores de software, con el objetivo de crear una página web informativa sobre sus servicios y su sistema de facturación Bifactura. Además, se desarrolló el frontend (plantillas) para el sistema Bifactura. El proyecto comenzó en 2018 y finalizó en 2020. Durante este período, también se proporcionó mantenimiento y ajustes según las necesidades del cliente.
+Descripción: Este proyecto fue desarrollado para Bindus3, un grupo de desarrolladores de software, con el objetivo de crear una página web informativa sobre sus servicios y su sistema de facturación BI3Factura. Además, se diseñó el Front End (plantillas) para el sistema BI3Factura. Desde 2020, he proporcionado mantenimiento y ajustes continuos según las necesidades y requerimientos del cliente.
 
-Objetivos:
+Tecnologías Utilizadas
 
-Página web informativa: 
-Crear una página web que proporcionara información sobre los servicios de Bindus3 y el sistema de facturación Bifactura.
+* HTML5
+* CSS
+* Bootstrap
+* JavaScript
 
-Frontend de Bifactura: 
-Desarrollar todas las plantillas necesarias para el frontend del sistema de facturación Bifactura.
+Funcionalidades
 
-Mantenimiento y soporte: 
-A lo largo del proyecto, se dieron ajustes y mantenimiento al sitio web y al sistema de facturación según los requerimientos que Bindus3 iba solicitando.
+* Página informativa: Sección con información general sobre los servicios de Bindus3 y el sistema BI3Factura.
+* Front End de registro: Interfaz para el registro de nuevos usuarios.
+* Front End de inicio de sesión: Interfaz para que los usuarios accedan al sistema de facturación.
+* Front End de la pantalla principal: Diseño y estructura de la pantalla principal del sistema BI3Factura, con acceso a las funciones clave del sistema.
+* Front End de formularios: Diseño y estructura de los formularios utilizados en el sistema BI3Factura para capturar y gestionar datos.
+* Front End de estados de cuenta: Interfaz para la visualización y gestión de los estados de cuenta de los usuarios.
+* Front End de pantalla de facturas: Diseño y estructura de la pantalla donde se listan y organizan las facturas del usuario, con opciones para visualizar detalles o realizar acciones.
 
+Versiones
+* Primera versión: Página inicial con la estructura básica e información esencial sobre los servicios de Bindus3 y el sistema BI3Factura.
+* Segunda versión: Página mejorada con ajustes visuales y funcionales basados en la retroalimentación del cliente, optimizando la experiencia de usuario y la organización del contenido.
+
+---
+*Nota: Por motivos de confidencialidad, el repositorio solo incluye las funcionalidades de Front End. El Back End del sistema pertenece a la infraestructura interna de la empresa y no puede ser compartido.*
+
+---
+
+  
 
