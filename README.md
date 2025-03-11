@@ -27,6 +27,5 @@ Versiones
 *Nota: Por motivos de confidencialidad, el repositorio solo incluye las funcionalidades de Front End. El Back End del sistema pertenece a la infraestructura interna de la empresa y no puede ser compartido.*
 
 ---
-
-  
+*Este proyecto está compuesto por archivos estáticos, por lo que no es necesario contar con un servidor o programas adicionales para verlo funcionar. Solo necesitas descargar el repositorio y abrir el archivo index.html en tu navegador preferido.*
 
