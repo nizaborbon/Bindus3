@@ -1,0 +1,132 @@
+/*---------------------------------
+ GENERAL
+-----------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+  padding: 60px 0;
+  overflow: hidden;
+  position: relative;
+}
+
+main {
+    padding: 10% 0;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px; 
+}
+
+/*---------------------------------
+HEADER
+-----------------------------------*/
+
+#header-login,
+#header-registro {
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 15px 0;
+}
+
+#header-login:before {
+  content: "";
+  background-color: #1B1B1B;
+  position: absolute;
+  bottom: -70%;
+  top: -135%;
+  left: 0;
+  right: 0;
+  transform: skewY(357deg);
+}
+
+#header-registro:before {
+  content: "";
+  background-color: #71bd46;
+  position: absolute;
+  bottom: -10%;
+  top: -340%;
+  left: 0;
+  right: 0;
+  transform: skewY(6deg);
+}
+
+/*---------------------------------
+FORMULARIO
+-----------------------------------*/
+
+.title h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #71bd46;
+  bottom: 0;
+  left: calc(50% - 25px);
+}
+
+.title h2 {
+  font-size: 38px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.btn-large {
+    width: 250px;
+}
+
+@media (max-width: 991px) {
+    #login-box, #registro-box {
+        margin-left: 0;
+    }
+}
+
+/*---------------------------------
+FOOTER
+-----------------------------------*/
+
+#footer-login:before {
+    content: "";
+    background-color: #71bd46;
+    position: absolute;
+    bottom: -10%;
+    top: 97%;
+    left: 0;
+    right: 0;
+    transform: skewY(4deg);
+}
+
+#footer-registro:before {
+    content: "";
+    background-color: #1B1B1B;
+    position: absolute;
+    bottom: -15%;
+    top: 95%;
+    left: 0;
+    right: 0;
+    transform: skewY(353deg);
+}
+
