@@ -1,5 +1,7 @@
 BINDUS3 - Página Web Informativa y Front End para sistema BI3Factura
 
+URL del sitio: https://bindus3.com/
+
 Descripción: Este proyecto fue desarrollado para Bindus3, un grupo de desarrolladores de software, con el objetivo de crear una página web informativa sobre sus servicios y su sistema de facturación BI3Factura. Además, se diseñó el Front End (plantillas) para el sistema BI3Factura. Desde 2020, he proporcionado mantenimiento y ajustes continuos según las necesidades y requerimientos del cliente.
 
 Tecnologías Utilizadas
